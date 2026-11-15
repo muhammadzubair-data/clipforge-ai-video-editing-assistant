@@ -7,6 +7,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-Video%20Engine-007808) ![License](https://img.shields.io/badge/License-MIT-blue) ![Status](https://img.shields.io/badge/Status-Working%20MVP-00bfa6)
 
+**[Open the live demo](https://clipforge-ai-video-editing-assistant.streamlit.app/)** — best with short clips; large files may hit hosting limits, so run locally for full-length videos.
+
 ![ClipForge UI concept](assets/interface-concept.png)
 
 **[Quick Start](#-quick-start) · [Features](#-features) · [Visual Gallery](#-visual-gallery) · [Architecture](#-architecture) · [Limitations](#-limitations--responsible-use)**
